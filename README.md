@@ -1,7 +1,9 @@
+## ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=renanvanni&repo=renanvanni&countColorcountColor)
+
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300>
 <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90> 
 
-<h2>Opa, Tudo bom?!</h1><img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60>
+<h2>## Hello World</h1><img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60>
 
 <h1>Bem vindo ao meu perfil !</h1>
 
@@ -11,20 +13,17 @@
 <img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height=22 width=22>
 </a>
 
-- Sou de SP - Z/L São Miguel
-- Formando em Analise e desenvolvimento de Sistema
-- 🔭 Focando nos projetos - Bootcamp da <img src = "https://brazil.generation.org/wp-content/uploads/2019/04/video-brasil-second-video.png" height=25 width=25> :ok_hand: :raised_hands:
-- :books: Atualmente estuando Java, frameworks Spring, Java Script, HTML, CSS, Angular e Bootstrap. 
+- :briefcase: Estudando em formação | Desenvolvedor Full-Stack Jr.
+- 🌱 Atualmente estou aprendendo no BootCamp da Generation
+- 📚 Ultimo semestre de Analise e Desenvolvimento em Sistemas na faculdade ENIAC.
+- :round_pushpin: São Paulo - Brasil
+- 📫 Como entrar em contato comigo: isaquedeco@icloud.com
+- :books: Atualmente estou focando em estudar Java, Spring, Java Script, HTML, CSS, Angular e Bootstrap. 
 - 🤔 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, sistemas Linux e Frameworks Spring e Django, HTML, Java Script e Angular
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-FERRAMENTAS: 
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
-<img src="https://i.pinimg.com/originals/e0/53/d7/e053d7538d377ce2b224dbf1823e5732.png" height=40 width=40><img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" height=40 width=40><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height=40 width=40>
-<img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-2.png" height=43 width=30>
-<img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" height=40 width=40>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height=40 width=40>
-<img src="http://static1.squarespace.com/static/5d092c5193b409000129adc4/t/5d0d75044951180001635b02/1561163016097/mysql-logo.png?format=1500w" height=40 width=40>
-
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 --------------------------------------------------------------------------------------------------------------------------------------------
