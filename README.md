@@ -14,8 +14,8 @@
 </a>
 
 - :briefcase: Estudando em formação | Desenvolvedor Full-Stack Jr.
-- 🌱 Atualmente estou aprendendo no BootCamp da Generation
-- 📚 Ultimo semestre de Analise e Desenvolvimento em Sistemas na faculdade ENIAC.
+- 🌱 Formado no BootCamp da Generation em Desenvolvedor Java Jr.
+- 📚 Formado em Analise e Desenvolvimento em Sistemas na faculdade ENIAC.
 - :round_pushpin: São Paulo - Brasil
 - 📫 Como entrar em contato comigo: isaquedeco@icloud.com
 - :books: Atualmente estou focando em estudar Java, Spring, Java Script, HTML, CSS, Angular e Bootstrap. 
