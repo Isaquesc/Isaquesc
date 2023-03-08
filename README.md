@@ -1,29 +1,47 @@
-## ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=renanvanni&repo=renanvanni&countColorcountColor)
+# Olá, Sou Isaque Silva 🖖🏼
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300>
-<img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90> 
+<img align="right" width="350" height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1750192092558773394/FF8A667973EBA3AC713DAB6EC7600C55BB8BE9A5/?imw=640&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-<h2>## Hello World</h1><img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isaque-silva/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/isaqecosta)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]()
+[<img src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">](mailto:isaquedeco@gmail.com)
 
-<h1>Bem vindo ao meu perfil !</h1>
+👨🏻‍💻 Back-End JAVA ☕
 
+👨‍🎓 Análise e Desenvolvimento de Sistemas na [Faculdade ENIAC](https://www.eniac.com.br/faculdade)
 
+👨‍🎓 Desenvolvedor Web Java na [Generation Brasil](https://brazil.generation.org/)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaque-silva/)](https://www.linkedin.com/in/isaque-silva/)<a href="https://www.instagram.com/">
-<img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height=22 width=22>
-</a>
+💼 Desenvolvedor Back-End na [Topaz](https://www.topazevolution.com/)
 
-- :briefcase: Estudando em formação | Desenvolvedor Full-Stack Jr.
-- 🌱 Formado no BootCamp da Generation em Desenvolvedor Java Jr.
-- 📚 Formado em Analise e Desenvolvimento em Sistemas na faculdade ENIAC.
-- :round_pushpin: São Paulo - Brasil
-- 📫 Como entrar em contato comigo: isaquedeco@icloud.com
-- :books: Atualmente estou focando em estudar Java, Spring, Java Script, HTML, CSS, Angular e Bootstrap. 
-- 🤔 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, sistemas Linux e Frameworks Spring e Django, HTML, Java Script e Angular
+## Sobre mim
 
+- 🏠 Moro no Vila Matilte, SP, Brasil
+- 🌎 Nasci no município Taboão da Serra, São Paulo
+- 🌱 Estudando bastante para virar um bom dev Java
+- :books: Atualmente estou focado na especialização Spring REST da [AlgaWorks](https://www.algaworks.com/)
+- 🎬 Apreciador de filmes, desenhos e cultura nerd ⛩
+- 🎮 Adoro jogar FPS
+- 🎧 Qual desenvolvedor não adora ouvir uma boa musica? 🤘🏼<br />
+- 📈 A melhor maneira de aprender é ensinando! Por isso gosto de contribuir! 😎<br />
 
---------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="left">Linguagens e Ferramentas:</h3>
+## Status e Estatística
 
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
---------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://visitor-badge.glitch.me/badge?page_id=isaquesc.isaquesc" alt="Visitas">
+
+![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesc&issues&theme=tokyonight&border_radius=15&hide_border=true)
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Ferramentas que uso: 🛸
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
+</p>
