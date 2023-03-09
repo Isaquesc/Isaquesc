@@ -35,12 +35,16 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Ferramentas que uso: 🛸
 
 <p align="left">
+<img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" alt="java" width="25" height="25" />
+<img src="https://img.icons8.com/officel/256/spring-logo.png" alt="springBoot" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springFramework" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://www.svgrepo.com/show/353396/angular-icon.svg" alt="angular-js" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="25" height="25" />
+<img src="https://img.icons8.com/color/256/my-sql.png" alt="mysql" width="25" height="25" />
+<img src="https://img.icons8.com/color/256/bootstrap.png" alt="bootsrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
